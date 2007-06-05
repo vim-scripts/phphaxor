@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1914
+
+phphaxor is a dark minimalistic syntax highlighting theme.
+Specially made to light out your PHP code in between HTML/JS.
+
+Am still working on toggling HTML / PHP highlighting, that will be in V1.0
+For now just PHP is highlighted out.
+
+Example: http://img169.imageshack.us/my.php?image=phphaxorv091kl0.png
+
