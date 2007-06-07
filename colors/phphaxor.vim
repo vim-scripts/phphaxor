@@ -21,7 +21,7 @@ hi Directory      term=bold cterm=bold ctermfg=DarkCyan guifg=LightBlue
 hi Search         term=reverse ctermfg=10 guifg=Green guibg=Black
 hi MoreMsg        term=bold cterm=bold ctermfg=darkgreen gui=bold guifg=Yellow
 hi ModeMsg        term=bold cterm=bold ctermfg=lightred gui=bold guifg=DeepPink guibg=Black
-hi LineNr         term=underline cterm=bold ctermfg=darkgrey guifg=DarkGray
+hi LineNr         term=underline cterm=bold ctermfg=darkgrey guifg=Cadetblue4
 hi Question       term=standout cterm=bold ctermfg=lightgreen gui=bold guifg=Yellow
 hi Comment        term=bold cterm=bold ctermfg=darkcyan gui=none guifg=Cadetblue3
 hi Constant       term=bold cterm=none ctermfg=7 gui=none guifg=LightGray
@@ -40,9 +40,10 @@ hi Defined        term=bold cterm=bold ctermfg=14 gui=none guifg=LightCyan
 hi MatchParen	  term=bold cterm=bold ctermbg=8 ctermfg=13 gui=none guifg=DeepPink guibg=Black
 hi Cursorline	  guibg=Black
 hi Cursor		  term=bold cterm=bold ctermfg=0 ctermbg=10 guibg=GreenYellow guifg=Black 
+hi Visual         guifg=White guibg=MediumPurple4
 
-hi htm			  ctermfg=8 guifg=Gray38
-hi js			  ctermfg=8 guifg=SlateGrey
+hi htm			  ctermfg=8 guifg=Gray56
+hi js			  ctermfg=8 guifg=IndianRed
 
 
 
